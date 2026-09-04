@@ -28,6 +28,7 @@ binding = "BROWSER"
 # KV namespace for caching (auto-provisioned on first deploy)
 [[kv_namespaces]]
 binding = "CACHE"
+id = "10370a86891f44da8037d591fc106fc8"
 
 [vars]
 # Environment variables can be set here or via wrangler secret
