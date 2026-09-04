@@ -39,3 +39,6 @@ id = "10370a86891f44da8037d591fc106fc8"
 # - ACCESS_KEY
 # - GITHUB_ACCESS_TOKEN
 # - etc.
+
+name = "rsshub"
+workers_dev = true
