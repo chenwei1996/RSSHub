@@ -26,7 +26,7 @@ enabled = true
 binding = "BROWSER"
 
 # KV namespace for caching (auto-provisioned on first deploy)
-[[kv_namespaces]]
+# [[kv_namespaces]]
 # binding = "CACHE"
 
 [vars]
