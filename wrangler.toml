@@ -41,3 +41,5 @@ binding = "CACHE"
 
 name = "rsshub"
 workers_dev = true
+
+usage_model = "unbound"
